@@ -18,8 +18,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32"> 
-  <h1><b>MY BLOG</b></h1>
-  <p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
+  <h1><b>Dayna Carlson's Portfolio</b></h1>
 </header>
 
 <!-- Grid -->
@@ -41,9 +40,6 @@ and is wrapped around the whole page content, except for the footer in this exam
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
-        </div>
-        <div class="w3-col m4 w3-hide-small">
-          <p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-tag">0</span></span></p>
         </div>
       </div>
     </div>
@@ -80,8 +76,8 @@ and is wrapped around the whole page content, except for the footer in this exam
   <div class="w3-card w3-margin w3-margin-top">
   <img src="/w3images/avatar_g.jpg" style="width:100%">
     <div class="w3-container w3-white">
-      <h4><b>My Name</b></h4>
-      <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
+      <h4><b>About</b></h4>
+      <p>Welcome to my portfolio! My name is Dayna Carlson. I'm currently a senior and information science major at the University of Wisconsin-Madison. I have an interest in data analytics and IT. I am interested in pursuing a career in either IT consulting or data analytics. </p>
     </div>
   </div><hr>
   
